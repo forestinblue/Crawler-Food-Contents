@@ -23,3 +23,11 @@
 3. 크롤러가 사이트의 이용 방침을 위반하지 않는지
 4. 크롤러가 사용자의 민감한 정보를 가져오지 않는지
 5. 가져온 컨텐츠를 적합한 사용 표준 하에 사용하는지
+
+### 개인정보 보호법 개정 (데이터 3법 개정안)
+- 가명 정보, 익명 정보 → 상업적 사용 가능
+- [대한민국 정책 브리핑- 데이터 3법](https://www.korea.kr/special/policyCurationView.do?newsId=148867915)
+ <img src="https://user-images.githubusercontent.com/90318043/158116375-eb62dfe4-367a-4338-aa65-d476cde62d17.png" width="800" height="300"/>
+ 
+![Untitled2](https://user-images.githubusercontent.com/90318043/158116382-fa9f372b-cad3-44d4-ad89-ce080a5bf6cb.png)
+
