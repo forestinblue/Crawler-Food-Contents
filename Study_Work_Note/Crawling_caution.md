@@ -12,7 +12,7 @@
 - 네이버:  블로그 포스트(PostView) [크롤링 가능](https://m.blog.naver.com/robots.txt)
 
 #### 크롤링으로 이윤 얻는 회사들
-- - 데이터 수집 전문 회사([와이즈넛](https://www.wisenut.com/sub/service/analysis.php), 써머스플랫폼) : 이 회사들 모두 크롤링으로 이윤을 얻고 있다.
+- 데이터 수집 전문 회사([와이즈넛](https://www.wisenut.com/sub/service/analysis.php), 써머스플랫폼) : 이 회사들 모두 크롤링으로 이윤을 얻고 있다.
 - 다이닝 코드도 네이버 블로그 포스트, SNS 크롤링으로 데이터 수집을 하고 있다.
  <img src="https://user-images.githubusercontent.com/90318043/158113396-9f7d5af7-7026-4bff-a312-89e65bc764f8.png" width="400" height="300"/>
  
